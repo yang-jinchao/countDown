@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/weserber/countDown#readme",
   "dependencies": {
-    "jquery": "^1.12.3"
+    "jquery": "^3.0.0"
   }
 }
